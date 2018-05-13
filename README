@@ -1,5 +1,14 @@
-Owned by Zichun Zhu 784145
+HTTP server
+===========
+>>>Suppot request
+  GET only
+>>>Support data
+  *HTML
+  *CSS
+  *JavaScript
+  *JPEG
 
-run make
-
-./server.c portno domain
+----------
+>>> use
+  make
+  ./server.c portno domain
