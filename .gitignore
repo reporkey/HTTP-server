@@ -1,0 +1,8 @@
+/.idea/
+/test_script.sh
+/test_log.txt
+/test/
+/client
+/server.o
+/utilities.o
+/server
