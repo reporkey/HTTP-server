@@ -1,14 +1,15 @@
 HTTP server
 ===========
->>>Suppot request
-  GET only
->>>Support data
-  *HTML
-  *CSS
-  *JavaScript
-  *JPEG
+### Suppot request
+  * GET
+
+### Support data
+  * HTML
+  * CSS
+  * JavaScript
+  * JPEG
 
 ----------
->>> use
+### use
   make
   ./server.c portno domain
