@@ -1,13 +1,15 @@
-HTTP server
+A simple HTTP server
 ===========
-### Suppot request
+Comp30023 Computer system project 1
+#### Suppot request
   * GET
-### Support data
+#### Support data
   * HTML
   * CSS
   * JavaScript
   * JPEG
 ----------
-### How to use
+#### How to use
+    <domain> is the position where this folder is
     make
-    ./server.c portno domain
+    ./server.c portno <domain>
