@@ -1,9 +1,9 @@
 A simple HTTP server
 ===========
 Comp30023 Computer system project 1
-#### Suppot request
+#### Request methods
   * GET
-#### Support data
+#### MIME data
   * HTML
   * CSS
   * JavaScript
